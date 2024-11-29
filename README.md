@@ -19,8 +19,8 @@ This project is a File Management System designed to organize and manage digital
 
 ### Prerequisites
 - Node.js
-- npm or yarn
-- MongoDB or PostgreSQL
+- npm
+- PostgreSQL
 - Git (optional)
 
 ### Backend Setup
