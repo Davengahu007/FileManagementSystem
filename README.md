@@ -10,22 +10,22 @@ This project is a File Management System designed to organize and manage digital
 - **File Previews**: Preview file details before downloading.
 
 ## Technologies Used
-- **Backend**: Node.js, Express.js
+- **Backend**: SpringBoot Java
 - **Frontend**: React.js with Tailwind CSS for styling
-- **Database**: MongoDB/PostgreSQL (choose based on your setup)
+- **Database**: PostgreSQL (choose based on your setup)
 - **API Testing**: Postman for API route testing
 
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js
+- Springboot Framework
 - npm
 - PostgreSQL
 - Git (optional)
 
 ### Backend Setup
 1. Clone the repository (if using Git):
-   ```git clone https://your-repository-url.com cd FileManagementSystem```
+   ```git clone https://github.com/Davengahu007/FileManagementSystem```
 
 2. Install Dependendcies
    ```cd backend npm install```
