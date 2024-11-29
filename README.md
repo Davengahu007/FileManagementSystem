@@ -76,6 +76,18 @@ This project is a File Management System designed to organize and manage digital
 - Use the interface to create, delete, and navigate directories.
 - Upload or download files by following the prompts on the interface.
 
+##Screenshots
+![image](https://github.com/user-attachments/assets/0cc95c4b-bd24-4a26-bdc4-d64275caaa67)
+![image](https://github.com/user-attachments/assets/49133505-5287-498b-961e-98e88e4fab69)
+![image](https://github.com/user-attachments/assets/194e0021-5bcd-46ed-a48d-5a773f119504)
+![image](https://github.com/user-attachments/assets/890a86cc-aa63-435a-b604-19d6cb306a74)
+![image](https://github.com/user-attachments/assets/f2733f12-1172-4981-af8d-5542effc118f)
+![image](https://github.com/user-attachments/assets/1627f34a-a73c-4147-ac1c-f9e1070e20dd)
+![image](https://github.com/user-attachments/assets/2e5c350d-0357-40a2-932a-0938df55e1e1)
+![image](https://github.com/user-attachments/assets/f247bfee-7e6c-457e-9830-dbc75516f64d)
+![image](https://github.com/user-attachments/assets/fe0c9d62-4132-4fe5-b102-200b0ac42807)
+
+
 ## Future Enhancements
 - Implement user authentication.
 - Add file search functionality.
