@@ -84,6 +84,7 @@ This project is a File Management System designed to organize and manage digital
 ![image](https://github.com/user-attachments/assets/f2733f12-1172-4981-af8d-5542effc118f)
 ![image](https://github.com/user-attachments/assets/1627f34a-a73c-4147-ac1c-f9e1070e20dd)
 ![image](https://github.com/user-attachments/assets/2e5c350d-0357-40a2-932a-0938df55e1e1)
+![image](https://github.com/user-attachments/assets/b94ae235-0e16-441a-af6c-66dca401e162)
 ![image](https://github.com/user-attachments/assets/f247bfee-7e6c-457e-9830-dbc75516f64d)
 ![image](https://github.com/user-attachments/assets/fe0c9d62-4132-4fe5-b102-200b0ac42807)
 
